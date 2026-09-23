@@ -33,18 +33,6 @@ I build games and the tools around them, with a soft spot for systems, experimen
 
 <br />
 
-## Selected work
-
-<table>
-	<tr>
-		<td width="65%" valign="top">
-			<a href="https://github.com/gamelife2025/install-software"><strong>install-software</strong></a><br />
-			One-click installation of common software for Linux desktops.<br /><br />
-			<a href="https://github.com/gamelife2025/install-software"><img src="https://github-stats-extended.vercel.app/api/pin/?username=gamelife2025&repo=install-software&hide_border=true&bg_color=00000000&title_color=0969da&text_color=57606a&icon_color=f59e0b" alt="install-software repository card" width="100%" /></a>
-		</td>
-	</tr>
-</table>
-
 ## GitHub at a glance
 
 <div align="center">
